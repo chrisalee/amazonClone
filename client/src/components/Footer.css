@@ -1,0 +1,21 @@
+.footer {
+    background-color: #232F3E;
+    color: #ffffff;
+    display: flex;
+    padding-top: 55px;
+    padding-bottom: 30px;
+}
+
+.footer__section {
+    display: flex;
+    flex-direction: column;
+    flex: 0.2;
+}
+
+.footer__sectionTitle {
+    font-weight: 900;
+}
+
+.footer__sectionSpace {
+    flex: 0.1;
+}
